@@ -1,0 +1,12 @@
+C:\Users\Usuario\Desktop\Proyecto\Proyecto2\bin\Debug\Proyecto2.exe.config
+C:\Users\Usuario\Desktop\Proyecto\Proyecto2\bin\Debug\Proyecto2.exe
+C:\Users\Usuario\Desktop\Proyecto\Proyecto2\bin\Debug\Proyecto2.pdb
+C:\Users\Usuario\Desktop\Proyecto\Proyecto2\obj\Debug\Proyecto2.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Proyecto\Proyecto2\obj\Debug\Proyecto2.Form1.resources
+C:\Users\Usuario\Desktop\Proyecto\Proyecto2\obj\Debug\Proyecto2.Form2.resources
+C:\Users\Usuario\Desktop\Proyecto\Proyecto2\obj\Debug\Proyecto2.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Proyecto\Proyecto2\obj\Debug\Proyecto2.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Proyecto\Proyecto2\obj\Debug\Proyecto2.exe
+C:\Users\Usuario\Desktop\Proyecto\Proyecto2\obj\Debug\Proyecto2.pdb
+C:\Users\Usuario\Desktop\Proyecto\Proyecto2\obj\Debug\Proyecto2.Carrito.resources
+C:\Users\Usuario\Desktop\Proyecto\Proyecto2\obj\Debug\Proyecto2.Eliminar.resources
